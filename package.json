@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@bshin132/lotide",
   "version": "1.0.0",
   "description": "Refactoring with chai and mocha",
   "main": "assertArraysEqual.js",
