@@ -38,3 +38,5 @@ console.log(results1)
 
 assertArraysEqual(map(words2,mapfunction),['l','h','a']);
 assertArraysEqual(map(words,mapfunction),['g','c','t','m','t']);
+
+module.exports = map;
